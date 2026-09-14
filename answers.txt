@@ -7,3 +7,11 @@ Q2: What field could data science be applied to? Give an example
 
 Answer: Data Engineer
 
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging merges two files together into a new commit essentially, Rebasing means adding your commits on top of main branches
+history so that it stays linear and clean
+
+Q4: What are you looking forward to this semester?
+
+Answer: Learning how to handle data
